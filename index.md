@@ -2,8 +2,7 @@
 
 **Contact:**  
 
-> zach@clynne.in
->
+>zach@clynne.in  
 
 **Pay:**  
-> bitcoincash:ppye48e8nascztvdgvtmsgdq2ydqpmntu53uc2ccpg
+>bitcoincash:ppye48e8nascztvdgvtmsgdq2ydqpmntu53uc2ccpg   
